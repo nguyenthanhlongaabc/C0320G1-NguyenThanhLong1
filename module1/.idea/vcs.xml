@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bien_Va_Kieu_Du_Lieu/Thuc_Hanh/Thực hành tạo dự án mới trên github/my-new-project3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bien_Va_Kieu_Du_Lieu/Thuc_Hanh/thực hành clone dự án từ git/wf-hello" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NhapMonLapTrinhCanBan/Thuc_Hanh/Thực hành tạo dự án mới trên github/my-new-project3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NhapMonLapTrinhCanBan/Thuc_Hanh/thực hành clone dự án từ git/wf-hello" vcs="Git" />
   </component>
 </project>
