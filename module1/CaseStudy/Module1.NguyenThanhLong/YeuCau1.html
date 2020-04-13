@@ -30,13 +30,13 @@
     document.write("Loại dịch vụ : " + serviceType + '</br>');
     document.write("Loại phòng thuê : " + roomType + '</br>');
     let price;
-    if (serviceType=="Villa"){
+    if (serviceType==="Villa"){
         price = 500
     }
-    if (serviceType=="House"){
+    if (serviceType==="House"){
         price = 300
     }
-    if (serviceType=="Room"){
+    if (serviceType==="Room"){
         price = 100
     }
     totalPay = price*rentDays*(1-discount/100);

@@ -8,10 +8,10 @@
 <input type="text" id="number1">
 <input type="text" id="number2">
 <br>
-<button onclick="tinhToan('add')">Add</button>
-<button onclick="tinhToan('sub')">Sub</button>
-<button onclick="tinhToan('mul')">Mul</button>
-<button onclick="tinhToan('div')">Div</button>
+<button onclick="tinhToan('add');">Add</button>
+<button onclick="tinhToan('sub');">Sub</button>
+<button onclick="tinhToan('mul');">Mul</button>
+<button onclick="tinhToan('div');">Div</button>
 <script>
     let number1 = document.getElementById(number1);
     let number2 = document.getElementById(number2);
@@ -30,8 +30,6 @@
         }  else if (operator === 'div'){
             result = parseInt(number1.value) / parseInt(number2.value);
             alert(result)
-        }  else {
-            alert('');
         }
 
     }
